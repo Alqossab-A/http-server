@@ -1,0 +1,14 @@
+{
+  "name": "http_server",
+  "module": "app/main.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "async": "^3.2.5"
+  }
+}
